@@ -1,0 +1,38 @@
+.description {
+  font-family: sans-serif;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+.link {
+  color: black;
+}
+
+.header {
+  margin-top: 64px;
+  margin-bottom: 64px;
+
+  text-align: center;
+}
+
+.main {
+  margin-bottom: 64px;
+}
+
+.footer {
+  text-align: center;
+  font-size: smaller;
+}
+
+.nav {
+  padding-left: 0;
+
+  font-family: sans-serif;
+
+  list-style: none;
+}
+
+.nav__item {
+  display: inline-block;
+  margin-right: 5px;
+}
